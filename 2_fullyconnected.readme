@@ -1,0 +1,8 @@
+training data input:
+
+batch_size = 128
+classes = 10
+
+train images batch: 128x(28x28) = 128x784
+train labels batch: 128x10 (sparse matrix with 1 hot)
+
